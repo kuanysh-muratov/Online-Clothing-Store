@@ -13,6 +13,5 @@ To run the application locally, follow these steps:
   ```
 5. To initiate the development server and render the website, run:
   ```bash
-  npm install
+  npm start
   ```
-6. Open your browser and go to http://localhost:3000 to view the app.
