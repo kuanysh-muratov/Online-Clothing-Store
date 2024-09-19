@@ -75,4 +75,3 @@ const CartItem = ({ item }) => {
 };
 
 export default CartItem;
-
